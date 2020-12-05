@@ -1,12 +1,3 @@
-
-
-h2.big-title {
-      font-family: 'Roboto', sans-serif, lighter;
-      color: #fff  
-       
-    }
-        
-
 body
 {
     font-family: 'Roboto', sans-serif;
@@ -285,8 +276,8 @@ body a:hover
 
 h1.big-title
 {
-    font-family: 'Montserrat', sans-serif,lighter;
-    font-size: 50px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 56px;
     font-weight: 700;
     line-height: 100%;
     padding-top: 100px;
@@ -299,7 +290,7 @@ h1.big-title
 
 .big-title span 
 {
-    display: inline;
+    display: block;
 }
 
 .title-desc
