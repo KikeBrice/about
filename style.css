@@ -276,7 +276,7 @@ body a:hover
 
 h1.big-title
 {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', sans-serif,lighter;
     font-size: 56px;
     font-weight: 700;
     line-height: 100%;
