@@ -2,13 +2,10 @@
 
 h2.big-title {
       font-family: 'Roboto', sans-serif, lighter;
-<<<<<<< HEAD
-      color: rgb(187, 11, 11);
-=======
-      color: #white;
->>>>>>> 8c94cb6e878d8fa931434a8c16f63634faacb5db
-       font-size: 28px;
-}
+      color: #fff  
+       
+    }
+        
 
 body
 {
@@ -289,7 +286,7 @@ body a:hover
 h1.big-title
 {
     font-family: 'Montserrat', sans-serif,lighter;
-    font-size: 56px;
+    font-size: 50px;
     font-weight: 700;
     line-height: 100%;
     padding-top: 100px;
