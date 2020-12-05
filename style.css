@@ -269,7 +269,8 @@ body a:hover
 
 .top-logo
 {
-    width: 200px !important;    
+    width: 30rem !important;   
+    height: 150rem; 
     padding-top: 150px;
 }
 
