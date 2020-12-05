@@ -1,3 +1,11 @@
+
+
+h2.big-title {
+      font-family: 'Roboto', sans-serif, lighter;
+      color: #fff;
+       font-size: 28px;
+}
+
 body
 {
     font-family: 'Roboto', sans-serif;
@@ -290,7 +298,7 @@ h1.big-title
 
 .big-title span 
 {
-    display: block;
+    display: inline;
 }
 
 .title-desc
