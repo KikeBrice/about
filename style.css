@@ -2,7 +2,11 @@
 
 h2.big-title {
       font-family: 'Roboto', sans-serif, lighter;
+<<<<<<< HEAD
       color: rgb(187, 11, 11);
+=======
+      color: #white;
+>>>>>>> 8c94cb6e878d8fa931434a8c16f63634faacb5db
        font-size: 28px;
 }
 
