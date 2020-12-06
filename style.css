@@ -310,7 +310,7 @@ h1.big-title
     font-family: 'Montserrat', sans-serif;
     font-size: 24px;
        color: #fff;
-  
+ text-decoration: underline;
     max-width: 333px; 
     margin: 0 auto;
    text-align: right 
@@ -339,7 +339,7 @@ h1.big-title
 
 #services .section-title-holder
 {
-    background-color: #32DB8A
+    background-color: #04bbbb
 }
 
 #services .section-title-holder span
