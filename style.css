@@ -309,10 +309,11 @@ h1.big-title
 {
     font-family: 'Montserrat', sans-serif;
     font-size: 24px;
+       color: #fff;
     line-height: 26px;
     max-width: 333px; 
     margin: 0 auto;
-    color: #fff;
+     
 }
 
 .page-template-page-home .intro-page footer
