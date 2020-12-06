@@ -1,16 +1,13 @@
 
 h2.big-title{
-font-size: 28px;
-font-weight: 400;
-  
+font-size: 34px;
+font-weight: 300;
 color: #fff;
-background-image:url(demo-images/about_img_03.jpg);
- width: 100% !important;
-    position: fixed;
-     text-align: center;
-    
-    
-    padding-top: 15px; 
+  top: 50rem;
+    position: center;
+
+
+        
 }
 
 body
